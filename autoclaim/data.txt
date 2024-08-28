@@ -1,1 +1,0 @@
-query_id=AAFeHpV9AAAAAF4elX0enWA_&user=%7B%22id%22%3A2106924638%2C%22first_name%22%3A%22Rie%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22depariie%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724625097&hash=f96dd6d15eb543081b207ab3a06c4ab81cee79305dce566797c53ffcfadf3970
